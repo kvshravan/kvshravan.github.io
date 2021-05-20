@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Jekyll"
+title: "GSoC 2021 Acceptance"
 layout: post
 ---
 
