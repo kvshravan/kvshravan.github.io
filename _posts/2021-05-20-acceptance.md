@@ -2,9 +2,7 @@
 title: "GSoC 2021 Acceptance"
 layout: post
 ---
-<img src="https://user-images.githubusercontent.com/39955163/119216086-207dd680-baef-11eb-9b4f-2de61a3ccc85.png" style="width:35%;height:35%;margin-right:50%;" />
 
-<br><br><br><br><br><br>
 
 It was on May 17, the day GSoC results were announced and I am happy to share that my [proposal][proposal] with CCExtractor Developement has been accepted.
 
