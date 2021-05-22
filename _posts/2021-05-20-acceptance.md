@@ -3,10 +3,9 @@ title: "GSoC 2021 Acceptance"
 layout: post
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+It was on May 17, the day GSoC results were announced and I am happy to share that my [proposal][proposal] to CCExtractor Developement has been accepted.
 
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Back when I faced problems while setting up the environment to the stage where I currently got accepted into GSoC, it has been quite a long journey. I would like to thank [Willem]: https://github.com/canihavesomecoffee and [Shivam]: https://github.com/canihavesomecoffee for guiding me in my proposal and also in helping me solve issues. I am really exicited to work with this amazing organization.
 
 Jekyll also offers powerful support for code snippets:
 
@@ -21,5 +20,6 @@ print_hi('Tom')
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
+[proposal]: https://summerofcode.withgoogle.com/projects/#4777075610746880
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
