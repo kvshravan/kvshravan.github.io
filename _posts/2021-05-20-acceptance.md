@@ -4,6 +4,7 @@ layout: post
 ---
 <img src="https://user-images.githubusercontent.com/39955163/119216086-207dd680-baef-11eb-9b4f-2de61a3ccc85.png" style="width:30%;height:30%;float:left;" />
 <img src="https://user-images.githubusercontent.com/39955163/119216087-21af0380-baef-11eb-92a5-abac12a56309.png" style="width:25%;height:25%;float:right;margin-right:100px;" />
+<br><br>
 
 
 It was on May 17, the day GSoC results were announced and I am happy to share that my [proposal][proposal] with CCExtractor Developement has been accepted.
