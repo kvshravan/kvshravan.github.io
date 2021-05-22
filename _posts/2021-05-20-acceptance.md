@@ -5,7 +5,7 @@ layout: post
 
 It was on May 17, the day GSoC results were announced and I am happy to share that my [proposal][proposal] to CCExtractor Developement has been accepted.
 
-Back when I faced problems while setting up the environment to the stage where I currently got accepted into GSoC, it has been quite a long journey. I would like to thank [Willem]: https://github.com/canihavesomecoffee and [Shivam]: https://github.com/canihavesomecoffee for guiding me in my proposal and also in helping me solve issues. I am really exicited to work with this amazing organization.
+Back when I faced problems while setting up the environment to the stage where I currently got accepted into GSoC, it has been quite a long journey. I would like to thank [Willem][Willem]: https://github.com/canihavesomecoffee and [Shivam][Shivam]: https://github.com/canihavesomecoffee for guiding me in my proposal and also in helping me solve issues. I am really exicited to work with this amazing organization.
 
 Jekyll also offers powerful support for code snippets:
 
