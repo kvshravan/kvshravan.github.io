@@ -10,7 +10,7 @@ It was on May 17, the day GSoC results were announced and I am happy to share th
 
 Back when I faced problems while setting up the environment to the stage where I currently got accepted into GSoC, it has been a long journey. I would like to thank [Willem][Willem] and [Shivam][Shivam] for guiding me in this journey and I am really exicited to work for such an amazing organization.
 
-This summer I'll be working on my project, [drive][Migrating sample platform from KVM to Google Cloud], under the mentorship of [Willem][Willem] and [Shivam][Shivam]. Looking forward for a great summer ahead.
+This summer I'll be working on my project, [Migrating sample platform from KVM to Google Cloud](https://drive.google.com/file/d/1fLRCzR_v6CBweDH6GSe45DOpmNlhx4VC/view?usp=sharing), under the mentorship of [Willem][Willem] and [Shivam][Shivam]. Looking forward for a great summer ahead.
 
 
 
@@ -18,6 +18,5 @@ This summer I'll be working on my project, [drive][Migrating sample platform fro
 [proposal]: https://summerofcode.withgoogle.com/projects/#4777075610746880
 [Willem]: https://github.com/canihavesomecoffee
 [Shivam]: https://github.com/canihavesomecoffee
-[drive]: https://drive.google.com/file/d/1fLRCzR_v6CBweDH6GSe45DOpmNlhx4VC/view?usp=sharing
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
