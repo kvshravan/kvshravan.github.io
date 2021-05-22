@@ -2,8 +2,8 @@
 title: "GSoC 2021 Acceptance"
 layout: post
 ---
-<img src="https://user-images.githubusercontent.com/39955163/119216086-207dd680-baef-11eb-9b4f-2de61a3ccc85.png" style="width:35%;height:35%;float:left;" />
-<img src="https://user-images.githubusercontent.com/39955163/119216087-21af0380-baef-11eb-92a5-abac12a56309.png" style="width:15%;height:15%;float:right;margin-right:100px;" />
+<img src="https://user-images.githubusercontent.com/39955163/119216086-207dd680-baef-11eb-9b4f-2de61a3ccc85.png" style="width:35%;height:35%;float:right;margin-right:100px;" />
+<img src="https://user-images.githubusercontent.com/39955163/119216087-21af0380-baef-11eb-92a5-abac12a56309.png" style="width:17%;height:17%;float:left" />
 
 <br><br><br><br><br><br><br><br>
 
